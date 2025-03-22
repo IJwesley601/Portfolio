@@ -13,7 +13,7 @@ const About: React.FC = () => {
         transition={{ duration: 0.8 }}
         className="text-center mb-16"
       >
-        <h2 className="text-3xl md:text-4xl font-bold text-gray-800 dark:text-white mb-4">A propos de Moi </h2>
+        <h2 className="text-3xl md:text-4xl font-bold text-gray-800 dark:text-white mb-4">A mon propos </h2>
         <div className="w-20 h-1 bg-blue-600 mx-auto"></div>
       </motion.div>
 
